@@ -54,11 +54,6 @@ Fraud detection is *highly imbalanced*. This code enables multiple, complementar
 <p align="center">
   <img src="docs/images/loss_curve.png" width="48%" alt="Federated Training Loss Over Rounds" />
 
-</p>
-
-<p align="center">
-  <img src="docs/images/skew_distribution.png" width="48%" alt="Client Sample Distribution by Skew" />
-
   <img src="docs/images/f1_per_client.png" width="48%" alt="Per-Client F1 Scores" />
 </p>
 
