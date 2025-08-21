@@ -1,6 +1,6 @@
 # Federated Fraud Detection (Flower + PyTorch)
 
-[![CI](https://github.com/galibrz/federated-fraud/actions/workflows/ci.yml/badge.svg)](https://github.com/galibrz/federated-fraud/actions)
+[![CI](https://github.com/GAlibrz/federated-fraud-detection/actions/workflows/ci.yml/badge.svg)](https://github.com/GAlibrz/federated-fraud-detection/actions/workflows/ci.yml)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
