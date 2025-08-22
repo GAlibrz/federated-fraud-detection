@@ -31,7 +31,7 @@ Features include `paymentMethod`, `Category`, behavioral/time features, and a bi
 
 ##  Handling Class Imbalance (what this repo does)
 
-Fraud detection is *highly imbalanced*. This code enables multiple, complementary techniques (see `client.py` and `configs/config.yaml`):
+Fraud detection is *highly imbalanced*, since most of the transactions are legit. This code enables multiple, complementary techniques (see `client.py` and `configs/config.yaml`):
 
 1. **Focal Loss** (default): focuses learning on hard/rare positives.  
    - Formula: \(\text{FL}(p_t)=-\alpha(1-p_t)^\gamma\log p_t\)  
